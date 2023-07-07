@@ -1,0 +1,4 @@
+baseURL = 'http://example.org/'
+languageCode = 'ja-jp'
+title = 'Resonant Quartet'
+theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
