@@ -6,13 +6,13 @@ theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
 [menu]
 [[menu.main]]
   name = 'Home'
-  url = '/'
+  pageRef = '/'
   weight = 10
 [[menu.main]]
   name = 'Post'
-  url = '/posts'
+  pageRef = '/posts'
   weight = 20
 [[menu.main]]
   name = 'About'
-  url = '/about'
+  pageRef = '/about'
   weight = 30
