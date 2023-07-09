@@ -3,6 +3,9 @@ title: "About"
 description: "紹介"
 date: 2023-07-08T08:20:20+09:00
 draft: false
+menu:
+  main:
+    weight: 30
 ---
 
 リゾナント弦楽四重奏団（Resonant Quartet）は、2022年に結成されたアマチュアの弦楽四重奏団です。名古屋を中心に活動していく予定です。

@@ -2,17 +2,3 @@ baseURL = 'https://resonantquartet.netlify.app/'
 languageCode = 'ja-jp'
 title = 'Resonant String Quartet'
 theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
-
-[menu]
-[[menu.main]]
-  name = 'Home'
-  pageRef = '/'
-  weight = 10
-[[menu.main]]
-  name = 'Post'
-  pageRef = '/posts/'
-  weight = 20
-[[menu.main]]
-  name = 'About'
-  pageRef = '/about/'
-  weight = 30
