@@ -2,3 +2,12 @@ baseURL = 'https://resonantquartet.netlify.app/'
 languageCode = 'ja-jp'
 title = 'Resonant String Quartet'
 theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[[params.ananke_socials]]
+name = "instagram"
+url = "https://www.instagram.com/resonantquartet"

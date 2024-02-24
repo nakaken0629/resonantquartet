@@ -8,6 +8,6 @@ draft: false
 
 リゾナント弦楽四重奏団（Resonant String Quartet）が結成されました。今後名古屋を中心に活動していきます。よろしくお願い致します。
 
-![リゾナント弦楽四重奏団](form-fukuihiroaki.jpeg) 
+![リゾナント弦楽四重奏団](images/form-fukuihiroaki.jpeg) 
 
 (photo by fukuihiroaki)
