@@ -15,19 +15,19 @@ menu:
 
 ---
 
-## yoshie(1st violin)
+## yoshie (1st violin)
 
 ![yoshie](comming-soon.jpeg) 
 
 （プロフィール作成中）
 
-## shiro(2nd violin)
+## shiro (2nd violin)
 
 ![shiro](comming-soon.jpeg) 
 
 （プロフィール作成中）
 
-## kenji(viola)
+## kenji (viola)
 
 ![kenji](kenji-haruna.jpeg) 
 
@@ -35,7 +35,7 @@ menu:
 
 中学１年よりヴィオラを始める。ヴィオラを上坂貴子に師事。大学時代は所属する名古屋大学交響楽団や東海学生オーケストラ連盟のヴィオラトップを務める傍ら、他の大学オーケストラのエキストラとして活動する。社会人になってからは、オストメールフィルハーモニカー／名古屋丸の内交響楽団／名古屋アマデウス室内管弦楽団などのヴィオラトップを務める。また、2011年から2012年にかけて開催された名古屋マーラー音楽祭の主要スタッフとして参加し、参加オーケストラや合唱団との折衝を行った。その後しばらく音楽活動からは遠ざかっていたが、このリゾナント弦楽四重奏団で音楽活動を久しぶりに再開することになった。
 
-## yuko-rin(cello)
+## yuko-rin (cello)
 
 ![yuko-rin](comming-soon.jpeg)
 
