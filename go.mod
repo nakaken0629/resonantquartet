@@ -1,5 +1,7 @@
-module github.com/nakaken0629/resonantquartet
+module github.com/resonantquartet/resonantquartet
 
-go 1.20
+go 1.21
 
-require github.com/theNewDynamic/gohugo-theme-ananke v0.0.0-20230203204610-a1a99cf12681 // indirect
+toolchain go1.24.3
+
+require github.com/theNewDynamic/gohugo-theme-ananke/v2 v2.12.1

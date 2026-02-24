@@ -1,7 +1,7 @@
 baseURL = 'https://resonantquartet.netlify.app/'
 languageCode = 'ja-jp'
 title = 'Resonant String Quartet'
-theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
+theme = ["github.com/theNewDynamic/gohugo-theme-ananke/v2"]
 
 [sitemap]
   changefreq = "monthly"
